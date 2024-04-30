@@ -95,7 +95,7 @@ nav a:hover {
     text-transform: capitalize;
 }
 .bo{
-    background-color: #fff0dbb2;
+    background-color: antiquewhite;
 }
 .bo .logo a{
     color: white;
@@ -170,6 +170,7 @@ nav a:hover {
 }
 .sidebar a {
     width: 100%;
+    font-weight: bold;
 }
 
 .show{
@@ -491,13 +492,13 @@ nav a:hover {
     flex-direction: row;
     align-items: center;
 }
-.iframe{
-    margin: 20px 390px 30px 250px;
+ .iframe{
+    margin: 20px 453px 50px 90px;
    
-}
+} 
 iframe{
-    width: 1000px;
-    height: 400px;
+    width: 1300px;
+    height: 600px;
 }
 
  
